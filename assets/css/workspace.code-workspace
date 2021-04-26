@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "TabithasSite",
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "TabithasSite"
+	}
+}
