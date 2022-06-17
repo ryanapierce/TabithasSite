@@ -3559,6 +3559,89 @@ input, select, textarea {
 					margin-top: 2em;
 				}
 
+				#rocket_img{
+					height: auto;
+					width: auto;
+					display: block;
+					transform: translate(-50%, -50%);
+					align-content: center;
+				}
+			
+				#rocket{
+					padding-top: 1em;
+					display: block;
+				}
+		
+				#ng_img{
+					height: auto;
+					width: auto;
+					display: block;
+					padding-bottom: 17em;
+					padding-top: .5em;
+					transform: translate(-50%, -50%);
+					align-content: center;
+				}
+			
+				#ng{
+					padding-top: 4em;
+					display: block;
+				}
+		
+				#rocket1_img{
+					height: auto;
+					width: auto;
+					display: block;
+					left: 55%;
+					position: relative;
+				}
+		
+				#brose_img{
+					height: auto;
+					width: auto;
+					display: block;
+					padding-top: 0em;
+					padding-bottom: 8em;
+					transform: translate(-50%, -50%);
+					align-content: center;
+				}
+			
+				#brose{
+					padding-top: 2em;
+					display: block;
+					padding-bottom: 0%;
+				}
+		
+				#gkn_img{
+					height: auto;
+					width: auto;
+					display: block;
+					padding-top: 0em;
+					padding-bottom: 7em;
+					transform: translate(-50%, -50%);
+					align-content: center;
+				}
+			
+				#gkn{
+					padding-top: 1em;
+					display: block;
+				}
+		
+				#tg_img{
+					height: auto;
+					width: auto;
+					display: block;
+					padding-top: 0em;
+					padding-bottom: 7em;
+					transform: translate(-50%, -50%);
+					align-content: center;
+				}
+			
+				#tg{
+					padding-top: 1em;
+					padding-bottom: 2em;
+					display: block;
+				}
+
 	}
 
 	.card-horizontal {
@@ -3859,73 +3942,358 @@ input, select, textarea {
 
 	}
 
-	@media screen and (max-width: 650px) {
 
-		.img-square-wrapper{
-			height: 5em;
-		}
-
+	@media screen and (max-width: 620px) {
 		#rocket_img{
-			display: none;
+			height: auto;
+			width: auto;
+			display: block;
+			padding-bottom: 15em;
+			padding-top: 7em;
+			transform: translate(-65%, -50%);
+			align-content: center;
 		}
 	
 		#rocket{
 			padding-top: 1em;
-			padding-bottom: 0em;
 			display: block;
 		}
 
 		#ng_img{
-			display: none;
+			height: auto;
+			width: auto;
+			display: block;
+			padding-bottom: 17em;
+			padding-top: .5em;
+			transform: translate(-65%, -50%);
+			align-content: center;
 		}
 	
 		#ng{
-			padding-top: 3em;
+			padding-top: 4em;
 			display: block;
 		}
 
 		#rocket1_img{
-			display: none;
+			height: auto;
+			width: auto;
+			display: block;
+			padding-top: .5em;
+			padding-bottom: 8.5em;
+			transform: translate(-65%, -50%);
+			align-content: center;
 		}
 	
 		#rocket1{
-			padding-top: 3em;
+			padding-top: 2.5em;
 			display: block;
 		}
 
 		#brose_img{
-			display: none;
+			height: auto;
+			width: auto;
+			display: block;
+			padding-top: 0em;
+			padding-bottom: 8em;
+			transform: translate(-65%, -50%);
+			align-content: center;
 		}
 	
 		#brose{
-			padding-top: 3em;
+			padding-top: 2em;
 			display: block;
 			padding-bottom: 0%;
 		}
 
 		#gkn_img{
-			display: none;
+			height: auto;
+			width: auto;
+			display: block;
+			padding-top: 0em;
+			padding-bottom: 7em;
+			transform: translate(-65%, -50%);
+			align-content: center;
 		}
 	
 		#gkn{
-			padding-top: 3em;
+			padding-top: 1em;
 			display: block;
 		}
 
 		#tg_img{
-			display: none;
+			height: auto;
+			width: auto;
+			display: block;
+			padding-top: 0em;
+			padding-bottom: 7em;
+			transform: translate(-65%, -50%);
+			align-content: center;
 		}
 	
 		#tg{
-			padding-top: 3em;
+			padding-top: 1em;
 			padding-bottom: 2em;
 			display: block;
 		}
 
-		.card-title {
-			text-align: left !important;
-		}
 	}
+
+	@media screen and (max-width: 520px) {
+		#rocket_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-bottom: 15em;
+			padding-top: 7em;
+			transform: translate(-75%, -50%);
+			align-content: center;
+		}
+
+		#ng_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-bottom: 17em;
+			padding-top: .5em;
+			transform: translate(-75%, -50%);
+			align-content: center;
+		}
+
+		#rocket1_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-top: .5em;
+			padding-bottom: 8.5em;
+			transform: translate(-75%, -50%);
+			align-content: center;
+		}
+
+		#brose_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-top: 0em;
+			padding-bottom: 8em;
+			transform: translate(-75%, -50%);
+			align-content: center;
+		}
+	
+		#gkn_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-top: 0em;
+			padding-bottom: 7em;
+			transform: translate(-75%, -50%);
+			align-content: center;
+		}
+
+
+		#tg_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-top: 0em;
+			padding-bottom: 7em;
+			transform: translate(-75%, -50%);
+			align-content: center;
+		}
+
+	}
+
+	@media screen and (max-width: 475px) {
+		#rocket_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-bottom: 15em;
+			padding-top: 7em;
+			transform: translate(-80%, -50%);
+			align-content: center;
+		}
+
+		#ng_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-bottom: 17em;
+			padding-top: .5em;
+			transform: translate(-80%, -50%);
+			align-content: center;
+		}
+
+		#rocket1_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-top: .5em;
+			padding-bottom: 8.5em;
+			transform: translate(-80%, -50%);
+			align-content: center;
+		}
+
+		#brose_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-top: 0em;
+			padding-bottom: 8em;
+			transform: translate(-80%, -50%);
+			align-content: center;
+		}
+	
+		#gkn_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-top: 0em;
+			padding-bottom: 7em;
+			transform: translate(-80%, -50%);
+			align-content: center;
+		}
+
+
+		#tg_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-top: 0em;
+			padding-bottom: 7em;
+			transform: translate(-80%, -50%);
+			align-content: center;
+		}
+
+	}
+
+	@media screen and (max-width: 430px) {
+		#rocket_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-bottom: 15em;
+			padding-top: 7em;
+			transform: translate(-85%, -50%);
+			align-content: center;
+		}
+
+		#ng_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-bottom: 17em;
+			padding-top: .5em;
+			transform: translate(-85%, -50%);
+			align-content: center;
+		}
+
+		#rocket1_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-top: .5em;
+			padding-bottom: 8.5em;
+			transform: translate(-85%, -50%);
+			align-content: center;
+		}
+
+		#brose_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-top: 0em;
+			padding-bottom: 8em;
+			transform: translate(-85%, -50%);
+			align-content: center;
+		}
+	
+		#gkn_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-top: 0em;
+			padding-bottom: 7em;
+			transform: translate(-85%, -50%);
+			align-content: center;
+		}
+
+
+		#tg_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-top: 0em;
+			padding-bottom: 7em;
+			transform: translate(-85%, -50%);
+			align-content: center;
+		}
+
+	}
+
+	@media screen and (max-width: 400px) {
+		#rocket_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-bottom: 15em;
+			padding-top: 7em;
+			transform: translate(-90%, -50%);
+			align-content: center;
+		}
+
+		#ng_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-bottom: 17em;
+			padding-top: .5em;
+			transform: translate(-90%, -50%);
+			align-content: center;
+		}
+
+		#rocket1_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-top: .5em;
+			padding-bottom: 8.5em;
+			transform: translate(-90%, -50%);
+			align-content: center;
+		}
+
+		#brose_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-top: 0em;
+			padding-bottom: 8em;
+			transform: translate(-90%, -50%);
+			align-content: center;
+		}
+	
+		#gkn_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-top: 0em;
+			padding-bottom: 7em;
+			transform: translate(-90%, -50%);
+			align-content: center;
+		}
+
+
+		#tg_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-top: 0em;
+			padding-bottom: 7em;
+			transform: translate(-90%, -50%);
+			align-content: center;
+		}
+
+	}
+
 
 	@media screen and (max-width: 328px) {
 
@@ -4240,6 +4608,10 @@ input, select, textarea {
 
 			#intro header > :last-child {
 				margin-bottom: 0;
+			}
+
+			#header h1 a {
+				font-size: .65em;
 			}
 
 	}
