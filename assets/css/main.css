@@ -4296,6 +4296,134 @@ input, select, textarea {
 
 	}
 
+	@media screen and (max-width: 390px) {
+		#rocket_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-bottom: 15em;
+			padding-top: 7em;
+			transform: translate(-95%, -50%);
+			align-content: center;
+		}
+
+		#ng_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-bottom: 17em;
+			padding-top: .5em;
+			transform: translate(-95%, -50%);
+			align-content: center;
+		}
+
+		#rocket1_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-top: .5em;
+			padding-bottom: 8.5em;
+			transform: translate(-95%, -50%);
+			align-content: center;
+		}
+
+		#brose_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-top: 0em;
+			padding-bottom: 8em;
+			transform: translate(-95%, -50%);
+			align-content: center;
+		}
+	
+		#gkn_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-top: 0em;
+			padding-bottom: 7em;
+			transform: translate(-95%, -50%);
+			align-content: center;
+		}
+
+
+		#tg_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-top: 0em;
+			padding-bottom: 7em;
+			transform: translate(-95%, -50%);
+			align-content: center;
+		}
+
+	}
+
+	@media screen and (max-width: 388px) {
+		#rocket_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-bottom: 15em;
+			padding-top: 7em;
+			transform: translate(-98%, -50%);
+			align-content: center;
+		}
+
+		#ng_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-bottom: 17em;
+			padding-top: .5em;
+			transform: translate(-98%, -50%);
+			align-content: center;
+		}
+
+		#rocket1_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-top: .5em;
+			padding-bottom: 8.5em;
+			transform: translate(-98%, -50%);
+			align-content: center;
+		}
+
+		#brose_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-top: 0em;
+			padding-bottom: 8em;
+			transform: translate(-98%, -50%);
+			align-content: center;
+		}
+	
+		#gkn_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-top: 0em;
+			padding-bottom: 7em;
+			transform: translate(-98%, -50%);
+			align-content: center;
+		}
+
+
+		#tg_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-top: 0em;
+			padding-bottom: 7em;
+			transform: translate(-98%, -50%);
+			align-content: center;
+		}
+
+	}
+
 
 	@media screen and (max-width: 328px) {
 
