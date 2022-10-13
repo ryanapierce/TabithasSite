@@ -3561,6 +3561,19 @@ input, select, textarea {
 					margin-top: 2em;
 				}
 
+				#tenneco_img{
+					height: auto;
+					width: auto;
+					display: block;
+					transform: translate(-50%, -50%);
+					align-content: center;
+				}
+			
+				#tenneco{
+					padding-top: 1em;
+					display: block;
+				}
+
 				#rocket_img{
 					height: auto;
 					width: auto;
@@ -3670,6 +3683,22 @@ input, select, textarea {
 
 	@media screen and (max-width: 900px) {
 
+		#tenneco_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-bottom: 15em;
+			padding-top: 7em;
+			top: 50%;
+			left: 90%;
+			transform: translate(-50%, -50%);
+			align-content: center;
+		}
+	
+		#tenneco{
+			padding-top: 1em;
+			display: block;
+		}
 
 		#rocket_img{
 			height: auto;
@@ -3850,6 +3879,21 @@ input, select, textarea {
 	}
 
 	@media screen and (max-width: 800px) {
+		#tenneco_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-bottom: 15em;
+			padding-top: 7em;
+			transform: translate(-50%, -50%);
+			align-content: center;
+		}
+	
+		#tenneco{
+			padding-top: 1em;
+			display: block;
+		}
+
 		#rocket_img{
 			height: auto;
 			width: auto;
@@ -3946,6 +3990,21 @@ input, select, textarea {
 
 
 	@media screen and (max-width: 620px) {
+		#tenneco_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-bottom: 15em;
+			padding-top: 7em;
+			transform: translate(-65%, -50%);
+			align-content: center;
+		}
+
+		#tenneco{
+			padding-top: 1em;
+			display: block;
+		}
+
 		#rocket_img{
 			height: auto;
 			width: auto;
@@ -4041,6 +4100,15 @@ input, select, textarea {
 	}
 
 	@media screen and (max-width: 520px) {
+		#tenneco_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-bottom: 15em;
+			padding-top: 7em;
+			transform: translate(-75%, -50%);
+			align-content: center;
+		}
 		#rocket_img{
 			height: auto;
 			width: auto;
@@ -4105,6 +4173,16 @@ input, select, textarea {
 	}
 
 	@media screen and (max-width: 475px) {
+		#tenneco_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-bottom: 15em;
+			padding-top: 7em;
+			transform: translate(-80%, -50%);
+			align-content: center;
+		}
+
 		#rocket_img{
 			height: auto;
 			width: auto;
@@ -4169,6 +4247,17 @@ input, select, textarea {
 	}
 
 	@media screen and (max-width: 430px) {
+
+		#tenneco_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-bottom: 15em;
+			padding-top: 7em;
+			transform: translate(-85%, -50%);
+			align-content: center;
+		}
+
 		#rocket_img{
 			height: auto;
 			width: auto;
@@ -4233,6 +4322,17 @@ input, select, textarea {
 	}
 
 	@media screen and (max-width: 400px) {
+
+		#tenneco_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-bottom: 15em;
+			padding-top: 7em;
+			transform: translate(-90%, -50%);
+			align-content: center;
+		}
+
 		#rocket_img{
 			height: auto;
 			width: auto;
@@ -4297,6 +4397,17 @@ input, select, textarea {
 	}
 
 	@media screen and (max-width: 390px) {
+
+		#tenneco_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-bottom: 15em;
+			padding-top: 7em;
+			transform: translate(-95%, -50%);
+			align-content: center;
+		}
+
 		#rocket_img{
 			height: auto;
 			width: auto;
@@ -4361,6 +4472,17 @@ input, select, textarea {
 	}
 
 	@media screen and (max-width: 388px) {
+
+		#tenneco_img{
+			height: auto;
+			width: auto;
+			display: block;
+			padding-top: .5em;
+			padding-bottom: 8.5em;
+			transform: translate(-98%, -50%);
+			align-content: center;
+		}
+
 		#rocket_img{
 			height: auto;
 			width: auto;
